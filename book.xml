@@ -1,0 +1,225 @@
+<catalogue>
+    <book>
+        <title> Oyun Perest </title>
+        <author> Saniye Bencik Kangal </author>
+        <publisher> Elma Yayınevi </publisher>
+        <isbn> 9786059367455 </isbn>
+        <date> 2019 </date>
+        <price> 36.40 </price>
+        <url> https://www.idefix.com/Kitap/Oyunperest/Saniye-Bencik-Kangal/Egitim-Basvuru/Aile-Cocuk/Aile-Cocuk-/urunno=0001798824001 </url>
+    </book>
+
+
+    <book>
+        <title> Steve Jobs Gibi Düşünmek </title>
+        <author> Daniel Smith </author>
+        <publisher>  İndigo Kitap </publisher>
+        <isbn> 9786057611024 </isbn>
+        <date> 2019 </date>
+        <price> 13.00 </price>
+        <url> https://www.idefix.com/Kitap/Steve-Jobs-Gibi-Dusunmek/Daniel-Smith/Egitim-Basvuru/Kisisel-Gelisim/urunno=0001799460001 </url>
+    </book>
+
+
+    <book>
+        <title> Mars Yıllıkları </title>
+        <author> Ray Bradbury </author>
+        <publisher> Barış Emre Alkım </publisher>
+        <isbn> 9786053758433 </isbn>
+        <date>  2018 </date>
+        <price> 17.78 </price>
+        <url> https://www.idefix.com/Kitap/Mars-Yilliklari/Edebiyat/Roman/Bilim-Kurgu/urunno=0001775018001 </url>
+    </book>
+
+
+    <book>
+        <title> Fahrenheit 451 </title>
+        <author> Ray Bradbury </author>
+        <publisher>  </publisher>
+        <isbn> İthaki Yayınları </isbn>
+        <date> 2018 </date>
+        <price> 12.22 </price>
+        <url> https://www.idefix.com/Kitap/Fahrenheit-451/Edebiyat/Roman/Bilim-Kurgu/urunno=0001750151001 </url>
+    </book>
+
+   
+    <book>
+        <title> Eve Dönüş </title>
+        <author> Ray Bradbury </author>
+        <publisher> İthaki Yayınları </publisher>
+        <isbn> 9786053752592 </isbn>
+        <date> 2013 </date>
+        <price> 14.44 </price>
+        <url> https://www.idefix.com/Kitap/Eve-Donus/Edebiyat/Roman/Bilim-Kurgu/urunno=0000000431332 </url>
+    </book>
+
+
+    <book>
+        <title> Cadılar Bayramı Ağacı </title>
+        <author> Ray Bradbury </author>
+        <publisher> İthaki Yayınları </publisher>
+        <isbn> 9786053757269 </isbn>
+        <date> 2017 </date>
+        <price> 9.44 </price>
+        <url> https://www.idefix.com/Kitap/Cadilar-Bayrami-Agaci/Edebiyat/Roman/Korku-Gerilim/urunno=0001726599001 </url>
+    </book>
+
+
+    <book>
+        <title> Güneşin Altın Elmaları </title>
+        <author> Ray Bradbury </author>
+        <publisher> İthaki Yayınları </publisher>
+        <isbn> 9786053755487 </isbn>
+        <date> 2016 </date>
+        <price> 20.56 </price>
+        <url> https://www.idefix.com/Kitap/Gunesin-Altin-Elmalari/Edebiyat/Roman/Bilim-Kurgu/urunno=0000000687898 </url>
+    </book>
+
+ 
+    <book>
+        <title> Resimli Adam </title>
+        <author> Ray Bradbury </author>
+        <publisher> İthaki Yayınları </publisher>
+        <isbn> 9786053757245 </isbn>
+        <date> 2017 </date>
+        <price> 15.56 </price>
+        <url> https://www.idefix.com/Kitap/Resimli-Adam/Edebiyat/Roman/Bilim-Kurgu/urunno=0000000408217 </url>
+    </book>
+
+
+    <book>
+        <title> Gör Beni-İki Devrin Hikayesi </title>
+        <author> Akilah Azra Kohen </author>
+        <publisher> Everest Yayınları </publisher>
+        <isbn> 9786051853635 </isbn>
+        <date> 2019 </date>
+        <price> 24.55 </price>
+        <url> https://www.idefix.com/Kitap/Gor-Beni-Iki-Devrin-Hikayesi/Azra-Kohen/Edebiyat/Roman/Turkiye-Roman/urunno=0001793197001 </url>
+    </book>
+
+
+    <book>
+        <title> Fi-1.Kitap </title>
+        <author> Akilah Azra Kohen </author>
+        <publisher> Everest Yayınları </publisher>
+        <isbn> 9786051852799 </isbn>
+        <date> 2018 </date>
+        <price> 20.15 </price>
+        <url> https://www.idefix.com/Kitap/Fi-1-Kitap/Edebiyat/Roman/Turkiye-Roman/urunno=0001765697001 </url>
+    </book>
+
+
+    <book>
+        <title> Bir Ömür Nasıl Yaşanır? </title>
+        <author> İlber Ortaylı </author>
+        <publisher> Kronik Kitap </publisher>
+        <isbn> 9789752430990 </isbn>
+        <date> 2019 </date>
+        <price> 17.88</price>
+        <url> https://www.idefix.com/Kitap/Bir-Omur-Nasil-Yasanir/Ilber-Ortayli/Egitim-Basvuru/Kisisel-Gelisim/urunno=0001796150001 </url>
+    </book>
+
+
+    <book>
+        <title> İmzalı Gazi Mustafa Kemal Atatürk </title>
+        <author> İlber Ortaylı </author>
+        <publisher> Kronik Kitap </publisher>
+        <isbn> 2789788612674 </isbn>
+        <date> 2018 </date>
+        <price> 21.07 </price>
+        <url> https://www.idefix.com/Kitap/Imzali-Gazi-Mustafa-Kemal-Ataturk/Arastirma-Tarih/Tarih/Ataturk/urunno=0001740271001 </url>
+    </book>
+
+
+   <book>
+        <title> Hayat Cesurlara Torpil Geçer </title>
+        <author> Bircan Yıldırım </author>
+        <publisher>  Destek Yayınları </publisher>
+        <isbn> 9786053113959 </isbn>
+        <date> 2018 </date>
+        <price> 11.11 </price>
+        <url> https://www.idefix.com/Kitap/Hayat-Cesurlara-Torpil-Gecer/Egitim-Basvuru/Kisisel-Gelisim/urunno=0001751232001 </url>
+    </book>
+
+
+    <book>
+        <title> Ted Gibi Konuş </title>
+        <author> Carmine Gallo </author>
+        <publisher> Aganta Kitap </publisher>
+        <isbn> 9786059851558 </isbn>
+        <date> 2017 </date>
+        <price> 17.78 </price>
+        <url> https://www.idefix.com/Kitap/Ted-Gibi-Konus/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000666166 </url>
+    </book>
+
+
+    <book>
+        <title> Ikigai-Japonların Uzun ve Mutlu Yaşam Sırrı </title>
+        <author> Hector Garcia, Francesc Miralles </author>
+        <publisher> İndigo Kitap </publisher>
+        <isbn> 9786052361450 </isbn>
+        <date> 2017 </date>
+        <price> 10.62 </price>
+        <url> https://www.idefix.com/Kitap/Ikigai-Japonlarin-Uzun-Ve-Mutlu-Yasam-Sirri/Egitim-Basvuru/Kisisel-Gelisim/urunno=0001735494001 </url>
+    </book>
+
+
+    <book>
+        <title> Outliers (Çizginin Dışındakiler)-Bazı İnsanlar Neden Daha Başarılı Olur? </title>
+        <author> Malcolm Gladwell </author>
+        <publisher> Mediacat Yayıncılık </publisher>
+        <isbn> 9786055755300 </isbn>
+        <date> 2009 </date>
+        <price> 22.98 </price>
+        <url> https://www.idefix.com/Kitap/Outliers-Cizginin-Disindakiler-Bazi-Insanlar-Neden-Daha-Basarili-Olur/Egitim-Basvuru/Is-Ekonomi-Hukuk/Yonetim-Is-Gelistirme-Kalite/urunno=0000000303463 </url>
+    </book>
+
+   
+    <book>
+        <title> Akıldışı Ama Öngörülebilir </title>
+        <author> Dan Ariely </author>
+        <publisher> Optimist </publisher>
+        <isbn> 9786052261507 </isbn>
+        <date> 2010 </date>
+        <price> 33.08 </price>
+        <url> https://www.idefix.com/Kitap/Akildisi-Ama-Ongorulebilir/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000334073 </url>
+    </book>
+
+
+    <book>
+        <title> Hızlı ve Yavaş Düşünme </title>
+        <author> Daniel Kahneman </author>
+        <publisher> Varlık Yayınları </publisher>
+        <isbn> 9789754345315 </isbn>
+        <date> 2015 </date>
+        <price> 25.00 </price>
+        <url> https://www.idefix.com/Kitap/Hizli-ve-Yavas-Dusunme/Daniel-Kahneman/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000659796 </url>
+    </book>
+
+
+    <book>
+        <title> Beden Dili </title>
+        <author> Joe Navarro </author>
+        <publisher>  Alfa Yayıncılık </publisher>
+        <isbn> 9786051060484 </isbn>
+        <date> 2008 </date>
+        <price> 17.00 </price>
+        <url> https://www.idefix.com/Kitap/Beden-Dili/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000283807 </url>
+    </book>
+
+ 
+    <book>
+        <title> İnsanları Okumak </title>
+        <author> Jo-Ellan Dimtirius </author>
+        <publisher> Koridor Yayıncılık </publisher>
+        <isbn> 9786054188451 </isbn>
+        <date> 2010 </date>
+        <price> 16.25 </price>
+        <url> https://www.idefix.com/Kitap/Insanlari-Okumak/Egitim-Basvuru/Kisisel-Gelisim/urunno=0000000343817 </url>
+    </book>
+
+
+   
+
+
+    </catalogue>
